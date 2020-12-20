@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\slepu\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\slepu\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Runner.583347565.00" t="ExcludeRecursive" />
+    <e p="D:\Projects\Unity\Runner" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Backup" t="Include">
+            <e p="PlatformManager_Backup.cs" t="Include" />
+            <e p="PlatformManager_Copy.cs" t="Include" />
+            <e p="SkylineManager_Copy.cs" t="Include" />
+          </e>
+          <e p="GameManager.cs" t="Include" />
+          <e p="ItemManager.cs" t="Include" />
+          <e p="Items.cs" t="Include" />
+          <e p="MaterialController.cs" t="Include" />
+          <e p="PlatformManager.cs" t="Include" />
+          <e p="Records.cs" t="Include" />
+          <e p="RecyclePlatform.cs" t="Include" />
+          <e p="RecycleSkyline.cs" t="Include" />
+          <e p="Runner.cs" t="Include" />
+          <e p="SkylineManager.cs" t="Include" />
+          <e p="SpawnObjects.cs" t="Include" />
+          <e p="UIManager.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Runner.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

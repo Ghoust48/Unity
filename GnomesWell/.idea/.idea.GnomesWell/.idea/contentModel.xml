@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\slepu\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\slepu\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_GnomesWell.959989965.00" t="ExcludeRecursive" />
+    <e p="D:\Projects\Unity\GnomesWell" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="IPoolable.cs" t="Include" />
+          <e p="ManagerPool.cs" t="Include" />
+          <e p="Pool.cs" t="Include" />
+          <e p="PoolType.cs" t="Include" />
+          <e p="Rope.cs" t="Include" />
+          <e p="Rope2.cs" t="Include" />
+          <e p="Singleton.cs" t="Include" />
+        </e>
+      </e>
+      <e p="GnomesWell.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
